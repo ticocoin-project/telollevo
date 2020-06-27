@@ -8,16 +8,7 @@ import Nombres from './components/login/datos/Nombres';
 import * as firebase from 'firebase';
 
 firebase.initializeApp(
-    {
-      apiKey: "AIzaSyC0hTM_yizhadT807qQazMt8RoQAc2Ylkk",
-      authDomain: "domicilios.tk",
-      databaseURL: "https://motax-8c394.firebaseio.com",
-      projectId: "motax-8c394",
-      storageBucket: "motax-8c394.appspot.com",
-      messagingSenderId: "899300749626",
-      appId: "1:899300749626:web:64bfd12525b2aa2a642003",
-      measurementId: "G-DDTLT1CY1Q"
-    }
+ 
 );
 
 export default function App() {
