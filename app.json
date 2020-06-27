@@ -25,14 +25,16 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.pruetelo.tlvprueb",
       "buildNumber": "1.0.0",
-      
+      "config": {
+        "googleMapsApiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      }
     },
     "android": {
       "package": "com.pruetelo.tlvprueb",
       "versionCode": 1,
       "config": {
         "googleMaps": {
-          "apiKey": "your api key"
+          "apiKey": "AIzaSyAfVJ214qYC-yvRuaftxarN_7eUYL59Tec"
         }
       }
     }
